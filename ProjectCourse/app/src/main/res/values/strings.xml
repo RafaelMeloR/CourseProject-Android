@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ProjectCourse</string>
+    <string name="course_text_view"></string>
+    <string name="coursetotalfees_text_view"></string>
+    <string name="coursetotalfees_button">Total Course Fees</string>
+    <string name="coursenext_button">Next Course </string>
+    <string name="course_detail_button">Course Details </string>
+
+
+    <string name="course_no_edit_text">Course No. </string>
+    <string name="course_name_edit_text"> Course Name</string>
+    <string name="course_max_enrl_edit_text">Course Max Enroll</string>
+    <string name="course_credits_edit_text"> Credits</string>
+    <string name="course_update_button"> Course Update</string>
+
+</resources>
