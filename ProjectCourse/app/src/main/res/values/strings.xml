@@ -12,5 +12,16 @@
     <string name="course_max_enrl_edit_text">Course Max Enroll</string>
     <string name="course_credits_edit_text"> Credits</string>
     <string name="course_update_button"> Course Update</string>
+    <string name="course_start_services_button">Start Service</string>
+    <string name="course_stop_service_button">Stop Service</string>
+    <string name="coursevisit_button">visit Link</string>
+    <string name="title_activity_course_maps">CourseMapsActivity</string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="add_to_firebase">Add to Firebase</string>
+    <string name="read_from_firebase">Read From Firebase</string>
+    <string name="search_course">Search Course</string>
+    <string name="add_course">Add Course</string>
 
 </resources>

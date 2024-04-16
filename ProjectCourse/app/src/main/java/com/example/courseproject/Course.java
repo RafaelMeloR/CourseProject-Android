@@ -1,6 +1,5 @@
 package com.example.courseproject;
 
-import androidx.annotation.NonNull;
 
 public class Course {
     private  String course_no;
